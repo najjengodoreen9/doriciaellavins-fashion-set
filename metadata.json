@@ -1,0 +1,6 @@
+{
+  "name": "DORICIAELLAVINS FASHION SET",
+  "description": "Luxurious, modern, and elegant fashion e-commerce destination offering bespoke, beautifully decorated outfits for kids, women, and gentlemen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
